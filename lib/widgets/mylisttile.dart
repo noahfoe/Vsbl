@@ -84,9 +84,6 @@ class MyListTile extends StatelessWidget {
         ],
       ),
       // Button
-      /*
- 
-      */
       trailing: SizedBox(
         width: 82,
         height: 30,
